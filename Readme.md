@@ -1,6 +1,6 @@
 # Hi, I'm Roman 👋
 
-French Engineer graduate from [ESIEE Paris](https://www.esiee.fr/)
+French Engineer graduate from [ESIEE Paris](https://www.esiee.fr/).
 
 Currently Software Developer at @Airbus, Paris.
 
