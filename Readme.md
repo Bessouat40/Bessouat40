@@ -6,10 +6,6 @@
 
 <hr>
 
-French Engineer.
-
-Currently Software Developer at @Airbus, Paris.
-
-I enjoy learning about artificial intelligence and software development.
+Software Engineer, I enjoy learning about ML and software development.
 
 ![Bessouat40's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bessouat40)
