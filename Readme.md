@@ -1,5 +1,5 @@
 # Hi, I'm Roman 👋
-
+![image title](https://rushter.com/counter.svg)
 <div>
 <p>🏔 Enthusiast of outdoor activities like hiking and climbing</p>
 <p>🤖 I also have a deep passion for software development and AI</p>
