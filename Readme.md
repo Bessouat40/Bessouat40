@@ -10,12 +10,12 @@
 </div>
 
 <div>
-<p>Former ESIEE Paris student.</p>  
+<h1>Former ESIEE Paris student.</h1>  
 <p>🏔 Enthusiast of outdoor activities like hiking and climbing</p>
 <p>🤖 I also have a deep passion for software development and AI</p>
 <p>🧑🏻‍💻 Committed to continual learning and stepping out of my comfort zone, I enjoy exploring tech innovations</p>
 <p>🌱 Currently learning transformers model</p>
-<p>Technical stack :</p>
+<h1>Technical stack :</h1>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
@@ -27,5 +27,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="25" height="25"/>
   <div>
-<p>Contact me : <b>roman.bessouat@orange.fr</b></p>
+<h3>Contact me : <b>roman.bessouat@orange.fr</b></h3>
 </div>
