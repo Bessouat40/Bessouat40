@@ -29,4 +29,4 @@
   <div>
 <h3>Contact me : <b>roman.bessouat@orange.fr</b></h3>
 </div>
-![GitHubStatsts](https://github-readme-stats.vercel.app/api?username=Bessouat40)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bessouat40)
