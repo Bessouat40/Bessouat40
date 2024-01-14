@@ -26,8 +26,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="25" height="25"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bessouat40&show_icons=true&theme=radical")
   <div>
 <h3>Contact me : <b>roman.bessouat@orange.fr</b></h3>
 </div>
-![Anurag's GitHub stttps://github-readme-stats.vercel.app/api?username=Bessouat40&show_icons=true&theme=radical)
+
 
