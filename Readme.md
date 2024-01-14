@@ -28,4 +28,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="25" height="25"/>
   <div>
 <h3>Contact me : <b>roman.bessouat@orange.fr</b></h3>
+![GitHubStatsts](https://github-readme-stats.vercel.app/api?username=Bessouat40)
 </div>
