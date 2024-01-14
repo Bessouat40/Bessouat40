@@ -29,4 +29,5 @@
   <div>
 <h3>Contact me : <b>roman.bessouat@orange.fr</b></h3>
 </div>
-![Bessouat40's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bessouat40)
+![Anurag's GitHub stttps://github-readme-stats.vercel.app/api?username=Bessouat40&show_icons=true&theme=radical)
+
