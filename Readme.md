@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
   </a>
 </div>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Bessouat40&show_icons=true&theme=radical")/>
 <div>
 <h1>Former ESIEE Paris student.</h1>  
 <p>🏔 Enthusiast of outdoor activities like hiking and climbing</p>
@@ -26,7 +26,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="25" height="25"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Bessouat40&show_icons=true&theme=radical")
   <div>
 <h3>Contact me : <b>roman.bessouat@orange.fr</b></h3>
 </div>
