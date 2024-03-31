@@ -10,8 +10,8 @@
 </div>
 <img src="https://github-readme-stats.vercel.app/api?username=Bessouat40&show_icons=true&theme=radical")/>
 <div>
-<h1>Former ESIEE Paris student.</h1>  
-<p>🏔 Enthusiast of outdoor activities like hiking and climbing</p>
+<h1>Full stack engineer</h1>  
+<p>🏔 Enthusiast of outdoor activities like hiking and climbing, running</p>
 <p>🤖 I also have a deep passion for software development and AI</p>
 <p>🧑🏻‍💻 Committed to continual learning and stepping out of my comfort zone, I enjoy exploring tech innovations</p>
 <p>🌱 Currently learning transformers model</p>
