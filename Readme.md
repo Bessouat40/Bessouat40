@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
   </a>
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=Bessouat40&show_icons=true&theme=radical")/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bessouat40&show_icons=true&theme=radical&rank_icon=percentile")/>
 <div>
 <h1>Full stack engineer</h1>  
 <p>🏔 Enthusiast of outdoor activities like hiking and climbing, running</p>
