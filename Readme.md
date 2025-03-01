@@ -14,7 +14,6 @@
 <p>🏔 Enthusiast of outdoor activities like hiking and climbing, running</p>
 <p>🤖 I also have a deep passion for software development and AI</p>
 <p>🧑🏻‍💻 Committed to continual learning and stepping out of my comfort zone, I enjoy exploring tech innovations</p>
-<p>🌱 Currently learning transformers model</p>
 <h1>Technical stack :</h1>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="25" height="25" />
