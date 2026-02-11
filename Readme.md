@@ -9,7 +9,7 @@ Hi, I'm Roman 👋
 </a>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bessouat40&show_icons=true&theme=radical" alt="Roman's Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bessouat40&show_icons=true&theme=radical"/>
 
 <div>
 <h1>Full stack engineer</h1>
@@ -23,7 +23,7 @@ Hi, I'm Roman 👋
 <!-- Ajout du badge Rust ici -->
 
 <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Currently_Learning-Rust-b7410e%3Fstyle%3Dfor-the-badge%26logo%3Drust%26logoColor%3Dwhite" alt="Currently learning Rust" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Currently_Learning-Rust-b7410e%3Fstyle%3Dfor-the-badge%26logo%3Drust%26logoColor%3Dwhite"/>
 </p>
 
 <h1>Technical stack :</h1>
