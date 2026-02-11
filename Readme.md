@@ -22,9 +22,7 @@ Hi, I'm Roman 👋
 
 <!-- Ajout du badge Rust ici -->
 
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Currently_Learning-Rust-b7410e%3Fstyle%3Dfor-the-badge%26logo%3Drust%26logoColor%3Dwhite"/>
-</p>
+<p>🌱 Currently learning Rust</p>
 
 <h1>Technical stack :</h1>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="25" height="25" />
