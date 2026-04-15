@@ -37,6 +37,5 @@ Hi, I'm Roman 👋
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40" />
 </p>
-<h3>Contact me : <b>roman.bessouat@orange.fr</b></h3>
 </div>
 </div>
